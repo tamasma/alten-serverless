@@ -2,10 +2,9 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-sdfsdfsd
 
 export default function Home() {
-  sdfsdfdsf
+  
   return (
     <div className={styles.container}>
       <Head>
